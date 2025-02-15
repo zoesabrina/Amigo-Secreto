@@ -15,7 +15,7 @@ O layout foi customizado com um pouco de CSS para garantir que o visual ficasse 
 
 ## 📸 Imagem
 
-![Imagem do projeto](ativos/print_jogo.png)
+![Imagem do projeto](assets/print_jogo.png)
 
 ## 📚 Tecnologias utilizadas
 - HTML
